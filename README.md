@@ -8,7 +8,7 @@
 
 ### 1B (ekki tilbúið)
 - [Skriftur fyrir 1B](https://youtu.be/dQw4w9WgXcQ?si=oicqwmn0OEKS3Ptf)
-- [Myndband fyrir 1B](https://youtu.be/dQw4w9WgXcQ?si=oicqwmn0OEKS3Ptf)
+- [Myndband fyrir 1B](https://youtu.be/aI-XO9gSuCw)
 ## Verkefni 2
 ## Verkefni 3
 ## Verkefni 4

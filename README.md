@@ -7,6 +7,8 @@
 - [Myndband fyrir 1A](https://youtu.be/6M9OpIrGI5k)
 
 ### 1B
+- [Skriftur fyrir 1B](https://youtu.be/dQw4w9WgXcQ?si=oicqwmn0OEKS3Ptf)
+- [Myndband fyrir 1B](https://youtu.be/dQw4w9WgXcQ?si=oicqwmn0OEKS3Ptf)
 ## Verkefni 2
 ## Verkefni 3
 ## Verkefni 4

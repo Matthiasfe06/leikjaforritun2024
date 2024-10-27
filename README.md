@@ -6,8 +6,8 @@
 - [Skriftur fyrir 1A](https://github.com/Matthiasfe06/leikjaforritun2024/tree/main/Verk1/Verk1_a/Scripts)
 - [Myndband fyrir 1A](https://youtu.be/6M9OpIrGI5k)
 
-### 1B (ekki tilbúið)
-- [Skriftur fyrir 1B](https://youtu.be/dQw4w9WgXcQ?si=oicqwmn0OEKS3Ptf)
+### 1B
+- [Skriftur fyrir 1B](https://github.com/Matthiasfe06/leikjaforritun2024/tree/main/Verk1/Verk1_b/Scripts)
 - [Myndband fyrir 1B](https://youtu.be/aI-XO9gSuCw)
 ## Verkefni 2
 ## Verkefni 3

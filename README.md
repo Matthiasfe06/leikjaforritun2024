@@ -13,7 +13,7 @@
 ## Verkefni 2
 
 - [Scripts](https://github.com/Matthiasfe06/leikjaforritun2024/tree/main/Verk2)
-- [Video](https://youtu.be/aI-XO9gSuCw)
+- [Video](https://youtu.be/_8Ei2qU2b1Q)
 - [WebGL](https://play.unity.com/en/games/24bd30a4-4e74-4b0d-be7c-c3efde2136d6/verk2-matthias)
 
 ## Verkefni 3

@@ -16,6 +16,10 @@
 - [Video](https://youtu.be/_8Ei2qU2b1Q)
 - [WebGL](https://play.unity.com/en/games/24bd30a4-4e74-4b0d-be7c-c3efde2136d6/verk2-matthias)
 
+### Assets folder setup
+<img width="346" alt="image" src="https://github.com/user-attachments/assets/125d9826-6c82-40a5-bd83-f6e9d553b13c">
+
+
 ## Verkefni 3
 ## Verkefni 4
 ## Verkefni 5

@@ -14,7 +14,7 @@
 
 - [Skriftur](https://github.com/Matthiasfe06/leikjaforritun2024/tree/main/Verk1/Verk1_b/Scripts)
 - [Myndband](https://youtu.be/aI-XO9gSuCw)
-- [Leikur WebGL]()
+- [Leikur WebGL](https://play.unity.com/en/games/b4a75f87-4809-4b65-8e75-f411ee5712a1/verkefni-2-matthias)
 
 ## Verkefni 3
 ## Verkefni 4

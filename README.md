@@ -22,5 +22,8 @@
 
 
 ## Verkefni 3
+- [Scripts](https://github.com/Matthiasfe06/leikjaforritun2024/tree/main/Verk3)
+- [Video1](https://youtu.be/8CT1TmSRXsc)
+- [Video2](https://youtu.be/wLgzhYGuY14)
 ## Verkefni 4
 ## Verkefni 5

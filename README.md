@@ -29,3 +29,5 @@
 - [Scripts](https://github.com/Matthiasfe06/leikjaforritun2024/tree/main/Verk4/Scripts)
 - [Video](https://youtu.be/cMIBnqJWmpM)
 ## Verkefni 5
+- [Scripts](https://github.com/Matthiasfe06/leikjaforritun2024/tree/main/Verk5/Scripts)
+- [Video](https://youtu.be/yX3eiWpwkDU)
